@@ -61,6 +61,8 @@
 * 🛠️ Tech: Node.js, Socket.io
 * ✨ Features: Live messaging, multi-user support
 
+* https://github.com/Aditya6970/chat-room
+
 ---
 
 #### 🔹 Audiobook Seller
