@@ -50,6 +50,8 @@
 * 🛠️ Tech: React, Node.js, AI APIs
 * ✨ Features: Resume analysis, smart filtering, automation
 
+* https://github.com/Aditya6970/hiresense-ai
+
 ---
 
 #### 🔹 Chat Room
