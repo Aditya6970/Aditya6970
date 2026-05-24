@@ -76,19 +76,7 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=aditya6970&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya6970&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya6970&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
